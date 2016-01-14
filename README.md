@@ -2,6 +2,10 @@
 
 A python script to draw lines that map the elevation of a path between two points. Google is very nice to supply an API to help us out.
 
+A cool bonus is a script that converts the altitudes to a .obj file. Here's one such obj file, rendered in [Blender](https://blender.org):
+
+![](/example.png)
+
 ## Usage
 
 ```
